@@ -187,5 +187,3 @@ Internship tasks and learning progress from Day 1 to Day 7
 ---
 
 
-Just say **what’s next** 👍
-
